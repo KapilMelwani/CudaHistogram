@@ -1,4 +1,4 @@
-#CUDA HISTOGRAM
+# CUDA HISTOGRAM
 
 Práctica de Arquitectura de Computadores Avanzadas y de Propósito Específico,Universidad de La Laguna, Ingenieria Informática
 
